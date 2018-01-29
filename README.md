@@ -7,5 +7,7 @@
 
 - learn_scrapy_redis 是一个爬取招聘网站信息的项目 
   1.spiders文件夹下共有6个爬虫文件 分别是对6个招聘网站的爬取  均是全站爬取 job1中的cookie需登录账号查看后填写
+  
   2.几个main文件是对爬虫文件的执行  可以同时多开
+  
   3.settings中需要再设置redis服务器的地址
