@@ -11,4 +11,6 @@
       
       2.几个main文件是对爬虫文件的执行  可以同时多开
       
-      3.settings中需要再设置redis服务器的地址
+      3.settings中需要再设置redis服务器的地址
+
+- Data Structures And Algorithms 一些基础数据结构和算法 用python表达
