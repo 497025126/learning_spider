@@ -9,7 +9,7 @@ from urllib import request,parse
 import re
 import json
 def get_html(n):
-    url = 'http://datacenter.mep.gov.cn:8099/ths-report/report!list.action '
+    url = 'http://datacenter.mep.gov.cn:8099/ths-report/report!list.action'
     data = {
         'xmlname':'1462259560614',
         'V_DATE':start,
