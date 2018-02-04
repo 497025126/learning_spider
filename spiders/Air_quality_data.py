@@ -68,7 +68,7 @@ if __name__ == '__main__':
     start = input('输入开始日期:')
     end = input('输入结束日期:')
     city = input('输入城市(不输入默认全国):')
-    flag = input('是否下载天气数据():')
+    flag = input('是否下载天气数据:')
     html = get_html(1)
     max_page = get_max_page()
     lili = []
