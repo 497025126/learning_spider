@@ -1,5 +1,5 @@
 # learning
-- spiders文件夹下共有4个爬虫
+- spiders文件夹下共有4个爬虫文件
 
       1.Air_quality_data.py 获取中国环境保护部上的 空气质量数据
       
