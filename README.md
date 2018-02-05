@@ -7,7 +7,7 @@
       
       3.threading.py 多线程爬取糗事百科中每个页面中段子的信息
       
-      4.pandatv.py 使用selenium模块中的 webdirver 脚本打开浏览器 跳转 期间抓取当前页面所有直播间的信息
+      4.pandatv.py 使用selenium模块中的 webdirver 脚本打开浏览器 跳转 期间抓取当前页面所有直播间的信息
 
 - learn_scrapy_redis 是一个爬取招聘网站信息的项目
 
